@@ -1,0 +1,72 @@
+.submenu1{
+    display: none;
+}
+.container{
+    background-color: white;
+    text-align: center;
+
+}
+
+}
+.headers{
+    position: absolute;
+    background-color:  rgb(0, 149, 248);
+    text-decoration: none;
+    text-align: right;
+
+}
+.social{
+    top: 0px;
+    position: absolute;
+}
+.logo{
+    position: relative;
+
+    left: 300px;
+    top: 20px;
+}
+.paragraph{
+
+
+    position: center;
+    display: inline-block;
+
+}
+.paragraph > p{
+    width: 900px;
+
+    margin: 10px 500px auto ;
+    line-height: 2em;
+    font-size: 17px;
+    color: rgb(126, 126, 126);
+}
+.paragraph > h1{
+    margin: 10px 800px auto ;
+    color: rgb(126, 126, 126);
+}
+.introduction{
+    margin: 10px 880px auto ;
+}
+p::first-letter{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.int >h1{
+    margin: 10px 830px auto ;
+    font-family: 'Times New Roman', Times, serif;
+
+    color: rgb(35, 144, 216);
+    font-weight: 700;
+}
+.int >i{
+
+}
+
+;
+
+.carousel-inner{
+        height: 10px !important;
+        width:  9px !important;
+        /* margin: 10px 100px auto */
+    }

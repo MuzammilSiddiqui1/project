@@ -1,0 +1,241 @@
+.top{
+    background-color: #1E90FF ;
+    margin: -8px;
+    width: 40;
+    height: 60px;
+    position: relative;
+    top: -20px;
+}
+.one{
+    position: absolute;
+    top: 5px;
+    left: 60px;
+}
+.two{
+    position: absolute;
+    top: 5px;
+    left: 120px;
+}
+.three{
+    position: absolute;
+    top: 5px;
+    left: 180px;
+}
+.four{
+    position: absolute;
+    top: 5px;
+    left: 240px;
+}
+.five{
+    position: absolute;
+    top: 5px;
+    left: 300px;
+}
+.six{
+    font-size: 18px;
+    font-style: italic;
+    position: absolute;
+    top: 05px;
+    left: 600px;
+}
+.button1{
+    position: absolute;
+    top: 5px;
+    right:230px;
+}
+.button2{
+    position: absolute;
+    top: 05px;
+    right:120px;
+}
+.button3{
+    position: absolute;
+    top: 05px;
+    right:10px;
+}
+
+.a{
+    margin: 10px 300px;
+    font-size: 18px;
+    font-style: italic;
+    position: absolute;
+    top: 40px;
+    left: 90px;
+}
+.mainfact{
+    background-color: rgb(0, 110, 255);
+}
+.fact1{
+    text-align: center;
+    top: 8px;
+    left: -100px;
+    position: relative;
+    margin: 10px 1500px auto;
+    font-style: inherit;
+    display: inline-block;
+    
+}
+.fact2{
+    
+    text-align: center;
+    top: -262px;
+    left: 320px;
+    position: relative;
+    font-style: inherit;
+    display: inline-block;text-align: center;
+   
+}
+.fact3{
+   
+    text-align: center;
+    top: -260px;
+    left: 400px;
+    position: relative;
+    font-style: inherit;
+    display: inline-block;
+}
+.fact4{
+   text-align: center;
+    top: -262px;
+    left: 500px;
+    position: relative;
+    font-style: inherit;
+    display: inline-block;
+    
+}
+
+.fact1 >h1,.fact2 >h1,.fact3 >h1,.fact4 >h1{
+    font-family:'Times New Roman', Times, serif ;
+    color: white;
+    font-size: 70px;
+    font-weight: 600;
+    
+}
+.fact1 >h2,.fact2 >h2,.fact3 >h2,.fact4 >h2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: white;
+    font-size: 20px;
+    font-weight: 550;
+}
+.fact1 >p,.fact2 >p,.fact3 >p,.fact4 >p{
+    font-family:'Times New Roman', Times, serif ;
+    color: rgb(30, 255, 0);
+    font-size: 20px;
+    font-weight: 1000;
+}
+.fact1 >img,.fact2 >img,.fact3 >img,.fact4 >img{
+    width: 20%;
+    
+}
+/* .mainfact3{
+    position: absolute;
+    top: 1750px;
+    left: -1500px;
+    
+    
+}
+.mainfact3{
+    
+    position: absolute;
+    top: 1750px;
+    left: -1500px;
+    
+    
+}
+.mainfact2{
+    position: absolute;
+    top: 1750px;
+    left: -500px;
+    
+    
+}
+.mainfact1{
+    position: absolute;
+    top: 1750px;
+    left: -1000px;
+    
+     */
+
+.centrum{
+
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: fantasy;
+    text-align: center;
+    position: relative;
+    top: 10;
+}
+.centrum >h1{
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgb(37, 104, 190);
+    background-color: transparent;
+}
+.boxes{
+    position: relative;
+    top: -100;
+}
+.services{
+    padding: 2em;
+    background-color: rgb(180, 180, 180);
+    box-shadow: 20px 20px;
+}
+.bg-silver-light{
+    background-color: rgb(238, 238, 238);
+    z-index: 999;
+  position: relative;
+  top: -220px;  
+}
+h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 162, 255);
+
+}
+.bg-silver-light >.centrum{
+    position: relative;
+  top: 50px;
+}
+.bg-silver-light >.centrum >h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 140, 255);
+}
+.mainer2{
+    background-color: rgb(252, 252, 252);
+    position: relative;
+    top: -140px;
+    left: -400px;
+}
+.boxheader >h1{
+    font-family:monospace ;
+    font-weight: 800;
+    font-size: 33px;
+position: relative;
+top: 0px;
+left: 1510px;
+}
+.centrum >h1 >i{
+    color: yellowgreen;
+}
+.centrum1 >h1{
+    font-family: monospace;
+    font-weight: 700;
+font-size: 40px;
+    font-weight: bolder;
+    color: rgb(37, 104, 190);
+    background-color: transparent;
+}
+.centrum1 >h1 >b{
+    font-family: monospace;
+    font-weight: 700;
+color: yellowgreen;
+}
+.centrum1{
+    position: relative;
+top: 0px;
+left: 760px;
+}
+
+
+
+
+
